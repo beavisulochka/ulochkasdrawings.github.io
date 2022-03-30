@@ -1,5 +1,5 @@
 # drawings
-[Whaler(July 17, 2021)](https://github.com/beavisulochka/beavisulochka.github.io/issues/1#issue-1186755055)
+[Whaler(July 17, 2021)](image_6483441(11).JPG)
 
 [Brushpen(December 11, 2021)](https://github.com/beavisulochka/beavisulochka.github.io/issues/3#issue-1186804738)
 
