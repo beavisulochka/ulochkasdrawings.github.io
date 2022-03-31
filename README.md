@@ -4,7 +4,7 @@
 
 Whaler July 17, 2021
 
-![image_6483441(9)](https://user-images.githubusercontent.com/102587784/160901343-8be99370-3edd-4535-8aa3-64052bdbdd8c.JPG)
+ <img src="https://user-images.githubusercontent.com/102587784/160901343-8be99370-3edd-4535-8aa3-64052bdbdd8c.JPG" width="250" height="400" /> 
 
 
 Brushpen December 11, 2021
